@@ -3,10 +3,10 @@
 ;;              Vegetation-Moisture Feedback 2 - May 2015                       ;;
 ;;                                                                              ;;
 ;;  Code licenced by James D.A. Millington (http://www.landscapemodelling.net)  ;;
-;;  under a Creative Commons Attribution-Noncommercial-Share Alike 3.0          ;;
-;;  Unported License (see http://creativecommons.org/licenses/by-nc-sa/3.0/)    ;;
+;;  under GNU GPLv2 https://www.gnu.org/licenses/gpl-2.0.html                   ;;
 ;;                                                                              ;;
-;;  Model and documentation available from http://github.com                    ;;
+;;  Model code and documentation available on:                                  ;;
+;;  http://github.com/jamesdamillington/KeyMethodsInGeography                   ;;
 ;;                                                                              ;;
 ;;  Model used in:                                                              ;;
 ;;  Millington, J.D.A. (2015) Simulation and reduced complexity models          ;; 
@@ -477,7 +477,8 @@ Millington, J.D.A. (2015) Simulation and reduced complexity models In Clifford e
 
 Code licenced by James D.A. Millington (http://www.landscapemodelling.net) under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (see http://creativecommons.org/licenses/by-nc-sa/3.0/)                                                                       
 
-Model and documentation available on http://github.com                  
+
+Model code and documentation available on: http://github.com/jamesdamillington/KeyMethodsInGeography              
 @#$#@#$#@
 default
 true
