@@ -2,10 +2,10 @@
 Online resources for chapter on _Simulation and Reduced Complexity Models_ in Clifford _et al._ (2016) [_Key Methods in Geography_](https://uk.sagepub.com/en-gb/eur/key-methods-in-geography/book242938)
 
 Model code can be run in NetLogo, available from http://ccl.northwestern.edu/netlogo/ These model files are for the model mentioned in the book chapter text:
-- Model 1: SimRed_Model1.nlogo
-- Model 2: SimRed_Model2.nlogo
-- Model 3: SimRed_Model3.nlogo
-- Model 4: SimRed_Model4.nlogo
+- Model 1: [SimRed_Model1.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model1.nlogo)
+- Model 2: [SimRed_Model2.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model2.nlogo)
+- Model 3: [SimRed_Model3.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model3.nlogo)
+- Model 4: [SimRed_Model4.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model4.nlogo)
 
 Download all model files by clicking the green code button above, then Download ZIP.
 
