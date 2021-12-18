@@ -1,4 +1,4 @@
-# Key Methods In Geography
+# Simulation and Reduced Complexity Models
 Online resources for chapter on _Simulation and Reduced Complexity Models_ in Clifford _et al._ (2016) [_Key Methods in Geography_](https://uk.sagepub.com/en-gb/eur/key-methods-in-geography/book242938)
 
 Model code can be run in NetLogo, available from http://ccl.northwestern.edu/netlogo/ These model files are for the model mentioned in the book chapter text:
