@@ -14,7 +14,7 @@ See the suggested exercises below for ideas on how to explore them. Alongside th
 ## Exercises
 
 ### Model 1
-- See how patterns vary for different establishment rules and random number generator seeds (i.e., different values of rand-seed).
+- See how patterns vary for different establishment rules and random number generator seeds (i.e., different values of `rand-seed`).
 
 ### Model 2
 - Vary values of `rainfall-rate` and `plant-water-req` to examine the influence on number and patterns of plants that grow and spread.
