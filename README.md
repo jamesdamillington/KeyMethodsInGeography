@@ -1,4 +1,4 @@
-# Simulation and Reduced Complexity Models
+# Example Simulation and Reduced Complexity Models for NetLogo
 Online resources for chapter on _Simulation and Reduced Complexity Models_ in Clifford _et al._ (2016) [_Key Methods in Geography_](https://uk.sagepub.com/en-gb/eur/key-methods-in-geography/book242938)
 
 Model code can be run in [NetLogo](http://ccl.northwestern.edu/netlogo/), a programmable modeling environment for agent-based and multi-agent modelling. The NetLogo application can [downloaded](http://ccl.northwestern.edu/netlogo/download.shtml) and installed on your computer to run models offline, or you can run models online via [NetLogo Web](http://www.netlogoweb.org/launch). To get started with NetLogo, before interacting with the models mentioned in the chapter text, explore [the tutorials that are available for NetLogo](https://ccl.northwestern.edu/netlogo/docs/). 
