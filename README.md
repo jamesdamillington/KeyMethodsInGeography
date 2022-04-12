@@ -3,16 +3,18 @@ Online resources for the chapter on _Simulation and Reduced Complexity Models_ i
 
 The model code provided here can be run in [NetLogo](http://ccl.northwestern.edu/netlogo/), a programmable environment for agent-based and multi-agent modelling. The NetLogo application can [downloaded](http://ccl.northwestern.edu/netlogo/download.shtml) and installed on your computer to run models offline, or you can run models online via [NetLogo Web](http://www.netlogoweb.org/launch). To get started with NetLogo, before interacting with the models mentioned in the chapter text, explore [the tutorials that are available for NetLogo](https://ccl.northwestern.edu/netlogo/docs/).
 
-Once you understand the basics of how to interact with NetLogo you can try the models mentioned in the chapter text. First, you will need to download the model code files. You can download files individually from the links below (e.g. on Windows right-click then 'Save As'), or download all model files at once by clicking the green 'Code' button above, then Download ZIP (unzip once the zip file has downloaded).
+Once you understand the basics of how to interact with NetLogo you can try the models mentioned in the chapter text. First, you will need to download the model code files onto your computer. You can download files individually from the links below (e.g. on Windows right-click then 'Save As'):
 
 - Model 1: [SimRed_Model1.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model1.nlogo)
 - Model 2: [SimRed_Model2.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model2.nlogo)
 - Model 3: [SimRed_Model3.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model3.nlogo)
 - Model 4: [SimRed_Model4.nlogo](https://raw.githubusercontent.com/jamesdamillington/KeyMethodsInGeography/master/SimRed_Model4.nlogo)
 
-Then, once you have the model files on your local computer, you can explore them by either:
+Alternatively, you can download all model files at once by clicking the green 'Code' button near the top of this page, then Download ZIP, and finally unzip the downloaded file onto your computer.
+
+Second, once you have the model files on your computer, you can explore them by either:
 1. opening a model file directly with the NetLogo application (File -> Open)
-2. uploading a model file to NetLogo Web (click _Browse_ in top right)
+2. uploading a model file to NetLogo Web (click _Browse_ in top right at)
 
 See the suggested exercises below for ideas on how to explore the models.
 
